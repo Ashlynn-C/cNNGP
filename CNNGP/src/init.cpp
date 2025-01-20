@@ -5,6 +5,7 @@
 #include "spNNGP.h"
 
 static const R_CallMethodDef CallEntries[] = {
+    {"clustNNGP", (DL_FUNC) &clustNNGP, 34},
     {"rNNGP", (DL_FUNC) &rNNGP, 28},
     {"sNNGP", (DL_FUNC) &sNNGP, 29},
     {"sNNGPLogit", (DL_FUNC) &sNNGPLogit, 27},

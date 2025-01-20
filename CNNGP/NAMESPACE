@@ -1,4 +1,4 @@
-useDynLib(spNNGP, .registration=TRUE)
+useDynLib(CNNGP, .registration=TRUE)
 
 export(spNNGP)
 export(spConjNNGP)
@@ -18,7 +18,7 @@ S3method("residuals", "PGLogit")
 S3method("predict", "NNGP")
 S3method("print", "predict.NNGP")
 
-import(Formula, coda, RANN)
+import(Formula, coda, RANN, spBayes)
 importFrom("stats", "coefficients", "lm", "contrasts", "is.empty.model", "model.matrix", "model.response", "terms", "dnorm", "pnorm", "dbinom", "glm", "rnorm", "var", "rbinom", "fitted", "quantile", "rgamma")
 importFrom("utils", "setTxtProgressBar", "txtProgressBar")
 importFrom("RANN", "nn2")

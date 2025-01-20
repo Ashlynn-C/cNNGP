@@ -1,0 +1,8 @@
+fe41f8a47ed1bb0bba28a7974c624fc1 *DESCRIPTION
+da302794bc23510bacf4066c69024d15 *NAMESPACE
+316432aecc59020f93fc03538e95a2d5 *R/leaderCluster.R
+69879d71b9d3863d19a04625c00d10aa *README.md
+6815b530c5506f8a94affdbcd3067c41 *man/leaderCluster.Rd
+2a1bce164485a073d93fd8954ef55dee *src/ctest.h
+458feb314a3627708876e1d44ed89a08 *src/init.c
+40457fbfcdda3abf2688292e9c5318e4 *src/leaderCluster.c

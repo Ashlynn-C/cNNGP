@@ -1,4 +1,4 @@
-Package: spNNGP
+Package: CNNGP
 Title: Spatial Regression Models for Large Datasets using Nearest
         Neighbor Gaussian Processes
 Version: 1.0.0
